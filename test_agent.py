@@ -1,8 +1,5 @@
 import re
-<<<<<<< HEAD
-=======
 import json
->>>>>>> 1f88e85856a3fcf12e037e6633a5cf6ee5113ada
 
 
 # --- 测试1：中文 bug ---
